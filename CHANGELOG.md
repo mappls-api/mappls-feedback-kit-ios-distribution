@@ -1,15 +1,10 @@
 # Changes to the MapplsFeedbackKit - SDK for iOS
 
-## 3.0.1 - 15 Oct, 2026
+## 2.0.1 - 21 Oct, 2026
 
-- SDK is now distributed as an XCFramework through Swift Package Manager.
-- Minimum supported iOS version is now 15.0.
-- Updated `MapplsAPICore` dependency to `2.1.5`.
-- CocoaPods distribution is discontinued.
-
-## 3.0.0 - 09 Feb, 2025
-
-- Authentication and authorization mechanisms have been revised.
+- Builds against the legacy `MapplsAPICore` (`mappls-api-core-distribution`) `1.0.18`.
+- SDK is distributed as an XCFramework through Swift Package Manager.
+- Minimum supported iOS version is 15.0.
 
 ## 2.0.0 - 16 Nov, 2024
 
